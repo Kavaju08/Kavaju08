@@ -1,4 +1,10 @@
-## Hi there 👋
+# Kavaju
+
+- Second semester Computer Engineering.
+- Python, Django & MySQL.
+- Self-taught background.
+
+Building backend tools and tinkering with retro consoles. Currently working on game library management and automation scripts. Learning C# and SQL architecture.
 
 <!--
 **Kavaju08/Kavaju08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
