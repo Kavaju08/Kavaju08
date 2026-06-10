@@ -1,7 +1,7 @@
 # Kavaju
 
 - Second semester Computer Engineering.
-- Python, Django & MySQL.
+- Python, Django & SQL.
 - Self-taught background.
 
 Building backend tools and tinkering with retro consoles. Currently working on game library management and automation scripts. Learning C# and SQL architecture.
